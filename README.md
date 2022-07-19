@@ -1,6 +1,6 @@
 # Countries 
 
-![Alt-текст](https://raw.githubusercontent.com/undro-dev/countries-redux/main/screen-app.png?v=3&s=460 "Орк")
+![Alt-текст](https://raw.githubusercontent.com/undro-dev/countries-redux/master/screen-app.png?v=3&s=460 "Орк")
 
 ###### Demo: https://countries-redux-2xh3k8rio-undro-dev.vercel.app/
 ## Description:
