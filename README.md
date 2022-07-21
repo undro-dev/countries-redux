@@ -12,6 +12,6 @@ REST Countries API with color theme switcher
 - React Router
 - REST API
 - Axios
-- Redux (React-Redux, Redux Thunk)
+- Redux-Toolkit
 
 
